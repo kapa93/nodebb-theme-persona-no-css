@@ -2,19 +2,19 @@
   {
     "name": "catalytic",
     "teamID": "01",
-    "color": "blue",
+    "color": "#00A5F7",
     "description": "Catalytic staff"
   },
   {
     "name": "green tea latte",
     "teamID": "02",
-    "color": "green",
+    "color": "#33cccc",
     "description": "Tea lovers"
   },
   {
     "name": "coffee",
     "teamID": "03",
-    "color": "red",
+    "color": "#545874",
     "description": "Coffee lovers"
   }
 ]
