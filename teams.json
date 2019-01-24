@@ -1,0 +1,20 @@
+[
+  {
+    "name": "catalytic",
+    "teamID": "01",
+    "color": "blue",
+    "description": "Catalytic staff"
+  },
+  {
+    "name": "green tea latte",
+    "teamID": "02",
+    "color": "green",
+    "description": "Tea lovers"
+  },
+  {
+    "name": "coffee",
+    "teamID": "03",
+    "color": "red",
+    "description": "Coffee lovers"
+  }
+]
