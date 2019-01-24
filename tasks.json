@@ -1,0 +1,58 @@
+[
+  {
+    "teamName": "catalytic",
+    "teamID": "01",
+    "teamColor": "blue",
+    "task": "Upload documents for review",
+    "taskID": "001"
+  },
+  {
+    "teamName": "catalytic",
+    "teamID": "01",
+    "teamColor": "blue",
+    "task": "Provide project updates",
+    "taskID": "002"
+  },
+  {
+    "teamName": "catalytic",
+    "teamID": "01",
+    "teamColor": "blue",
+    "task": "Service Request - Digital Ocean invoice",
+    "taskID": "003"
+  },
+  {
+    "teamName": "green tea latte",
+    "teamID": "02",
+    "teamColor": "green",
+    "task": "Review pull request",
+    "taskID": "001"
+  },
+  {
+    "teamName": "green tea latte",
+    "teamID": "02",
+    "teamColor": "green",
+    "task": "Add new team member",
+    "taskID": "002"
+  },
+  {
+    "teamName": "coffee",
+    "teamID": "03",
+    "teamColor": "violet",
+    "task": "Remove team member",
+    "taskID": "001"
+  },
+  {
+    "teamName": "coffee",
+    "teamID": "03",
+    "teamColor": "violet",
+    "task": "Merge pull request",
+    "taskID": "002"
+  },
+  {
+    "teamName": "coffee",
+    "teamID": "03",
+    "teamColor": "violet",
+    "task": "Review feedback",
+    "taskID": "003"
+  },
+]
